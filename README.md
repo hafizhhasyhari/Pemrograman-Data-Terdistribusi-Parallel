@@ -14,4 +14,5 @@ Studi Kasus dan Tantangan: Proyek dan solusi dari berbagai studi kasus serta tan
    - Parallel Algorithms Implementation
 Eksperimen dan Inovasi: Program tambahan dari eksplorasi pribadi saya.
 oleh : hafizhhasyhari
-Jika Anda tertarik untuk berkolaborasi atau memberikan kontribusi, jangan ragu untuk mengirimkan pull request atau membuka issue.
+> Jika Anda tertarik untuk berkolaborasi atau memberikan kontribusi, jangan ragu untuk mengirimkan pull request atau membuka issue.
+> Explore the world of Distributed Data Programming with hafizhhasyhari! Let's share ideas, learn together, and build innovative solutions. Your collaboration is greatly appreciated.
